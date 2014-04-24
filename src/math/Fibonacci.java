@@ -34,7 +34,7 @@ public class Fibonacci {
     }
 
     public static void main(String[] args) {
-    	final int N = 8;
+    	final int N = 10;
         for (int i = 1; i <= N; i++)
             System.out.println(i + ": " + fib(i));
     }
