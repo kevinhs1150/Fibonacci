@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="TX300C" id="0" name="FibonacciTest" package="test" skipped="0" tests="1" time="0.06" timestamp="2014-04-24T06:38:51">
+  <testsuite errors="0" failures="0" hostname="TX300C" id="0" name="FibonacciTest" package="test" skipped="0" tests="1" time="0.056" timestamp="2014-04-24T06:53:34">
       <properties>
           <property name="java.vendor" value="Oracle Corporation" />
 
@@ -154,7 +154,7 @@
 
           <property name="ant.version" value="Apache Ant(TM) version 1.9.3 compiled on December 23 2013" />
 
-          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner test.FibonacciTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\Fibonacci\junit\TEST-test.FibonacciTest.xml crashfile=D:\Fibonacci\junitvmwatcher2148017018608499007.properties propsfile=D:\Fibonacci\junit1980265818843268800.properties" />
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner test.FibonacciTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\Fibonacci\junit\TEST-test.FibonacciTest.xml crashfile=D:\Fibonacci\junitvmwatcher3986399938298242693.properties propsfile=D:\Fibonacci\junit7432296641660149243.properties" />
 
           <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
 
